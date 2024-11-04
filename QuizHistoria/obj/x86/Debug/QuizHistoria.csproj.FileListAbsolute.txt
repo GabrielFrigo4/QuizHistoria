@@ -1,0 +1,120 @@
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Agradecimentos.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Fundo.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Passar.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta1.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta2.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Play.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Reposta.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\1.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\10.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\2.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\3.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\4.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\5.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\6.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\7.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\8.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\9.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Certa.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Errada.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sair.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\Button.wav
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\MusicaFundo.wav
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Titulo.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Volta_Menu.png
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlicommon.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlidec.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\bz2.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\freetype.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\libpng16.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_image.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_mixer.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_ttf.dll
+C:\Users\gabri\source\repos\QuizHistoria\QuizHistoria\bin\x86\Debug\zlib1.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Agradecimentos.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Fundo.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Passar.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta1.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta2.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Play.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Reposta.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\1.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\10.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\2.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\3.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\4.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\5.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\6.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\7.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\8.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\9.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Certa.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Errada.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sair.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\Button.wav
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\MusicaFundo.wav
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Titulo.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Volta_Menu.png
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlicommon.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlidec.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\bz2.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\freetype.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\libpng16.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_image.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_mixer.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_ttf.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\zlib1.dll
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Agradecimentos.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Fundo.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Passar.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta1.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Pergunta2.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Play.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Reposta.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\1.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\10.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\2.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\3.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\4.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\5.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\6.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\7.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\8.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Respostas\9.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Certa.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Resposta_Errada.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sair.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\Button.wav
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Sound\MusicaFundo.wav
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Titulo.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\Asset\Volta_Menu.png
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlicommon.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\brotlidec.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\bz2.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\freetype.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\libpng16.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_image.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_mixer.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\SDL2_ttf.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\zlib1.dll
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\bin\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.exe
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.pdb
+C:\Users\gabri\source\repos\C#\_MeuSoftware\API Grafica\SDL2\QuizHistoria\QuizHistoria\obj\x86\Debug\QuizHistoria.csproj.AssemblyReference.cache
